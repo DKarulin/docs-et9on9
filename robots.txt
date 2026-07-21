@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-hk0mba.privatetalks.online/sitemap.xml
